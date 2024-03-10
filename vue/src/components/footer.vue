@@ -7,7 +7,7 @@ export default {
 <template>
   <div class="text-center w-4/5 mx-auto flex flex-col gap-2 mb-2">
     <hr />
-    <small>
+    <small class="text-xs">
       developed by
       <a
         href="https://endwall.pw"
@@ -19,6 +19,6 @@ export default {
         EWT
       </a>
     </small>
-    <span> all rights reserved. </span>
+    <span class="text-sm"> all rights reserved. </span>
   </div>
 </template>
